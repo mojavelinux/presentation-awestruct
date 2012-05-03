@@ -1,0 +1,8 @@
+{
+  "name": "Are you awestructed?",
+  "description": "How Arquillian uses awestruct to create arquillian.org",
+  "author": "Dan Allen",
+  "sections": [
+    {"section": "main"} 
+  ]
+}
