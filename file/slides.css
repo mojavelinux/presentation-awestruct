@@ -1,0 +1,21 @@
+.title h1 {
+  color: rgb(1, 35, 64);
+}
+
+.subsection h1 {
+  background-color: rgb(1, 35, 64);
+}
+
+.subsection.arquillian h1 {
+  background-color: #3B2151;
+}
+
+.commandline code.command {
+  display: block;
+  /*font-family: "DejaVu Sans Mono", "Droid Sans Mono", Menlo, Monaco, "Courier New", monospace;*/
+  font-family: "Courier New", monospace;
+}
+
+.content > ul > li {
+  margin-left: 0;
+}
